@@ -1,0 +1,47 @@
+h1 {
+  color: red;
+}
+#Home-Intro{
+  text-align: center;
+  border: 3px;
+  border-color: red;
+  border-style: solid;
+}
+#Home-Intro:hover{
+  background-color: burlywood;
+}
+#p2{
+  color: green;
+}
+#nav{
+  text-align: center;
+  background-color: blueviolet;
+  height: 25px;
+  padding-top: 5px;
+  margin-bottom: 5px;
+}
+#nav a{
+  margin: 0px 5px;
+  text-decoration: none ;
+  color: black;
+}
+#card{
+  align-items: center;
+  margin-top: 5px;
+}
+
+#card-img{
+  width: 300px;
+  height: 300px;
+  align-items: center;
+  margin: 0px auto;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
+
+#action{
+  text-align: center;
+}
